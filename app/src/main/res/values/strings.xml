@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeersApp</string>
+    <string name="alcoholpv">Alcohol(APV): </string>
+</resources>
